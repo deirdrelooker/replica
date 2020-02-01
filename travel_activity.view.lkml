@@ -459,6 +459,4 @@ view: travel_activity {
     sql: (${average_distance_miles}/(${average_duration_minutes}/60)) ;;
   }
 
-
-
 }

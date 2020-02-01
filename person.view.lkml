@@ -248,5 +248,6 @@ view: person {
     type: median
     sql: ${household_income_usd} ;;
     value_format_name: usd_0
+
   }
 }

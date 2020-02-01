@@ -38,4 +38,5 @@ map_layer: census_tract {
   min_zoom_level: 6
   max_zoom_level: 14
   property_key: "GEOID"
+
 }

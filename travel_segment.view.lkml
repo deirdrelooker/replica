@@ -258,5 +258,6 @@ view: travel_segment {
   measure: count {
     type: count
     drill_fields: [id, person.id]
+
   }
 }
